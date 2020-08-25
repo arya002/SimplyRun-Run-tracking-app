@@ -5,6 +5,7 @@ Below are the "Start Run", "Run Details" and "Run Log" screen respectively.
 <img src="images/start%20run.png" width="200" height="400" > <img src="images/run%20map.jpg" width="200" height="400" > <img src="images/run%20stats.jpg" width="200" height="400" >
 </p>
 
+
 Follow the instructions below to reproduce and run this app.
 ### Prerequisites:
 
