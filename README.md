@@ -1,6 +1,6 @@
 # SimplyRun
 
-<img src="images/run%20map.jpg" width="100" height="300" > 
+<img src="images/run%20stats.jpg" width="200" height="400" > <img src="images/run%20map.jpg" width="200" height="400" > <img src="images/start%20run.png" width="200" height="400" > 
 
 ### Prerequisites:
 
