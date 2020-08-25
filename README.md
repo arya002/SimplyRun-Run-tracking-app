@@ -1,6 +1,6 @@
 # SimplyRun
 
-
+<img scr="https://raw.githubusercontent.com/arya002/SimplyRun-Run-tracking-app/master/images/run%20map.jpg" width="200" height="300" > 
 
 ### Prerequisites:
 
@@ -24,3 +24,4 @@
     control+C               (in terminal to end)
 
 ### Running Tests: ‘npm test -- -u”
+ 
